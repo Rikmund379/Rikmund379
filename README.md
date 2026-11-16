@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hello 👋
+<iframe src="https://giphy.com/embed/AQkDUU5VDk78mtR2AX" width="322" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 <!--
 **Rikmund379/Rikmund379** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
